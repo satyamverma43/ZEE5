@@ -23,7 +23,7 @@
 
 <h2> Where To Host : </h2>
 
-‣ _Host all Files at Heroku, Repl or Your Hosting Anywhere_ ...
+‣ _Host all Files Localhost , at Heroku, Repl or Your Hosting Anywhere_ ...
 
 ---
 
