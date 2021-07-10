@@ -154,7 +154,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/b76f9bbc8d86df426c5cc.jpg') no-repeat;
+        background: url('https://telegra.ph/file/c8a3e28c3826141573984.jpg') no-repeat;
         background-size: 35px auto, auto;
     }
     
