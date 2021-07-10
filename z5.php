@@ -152,10 +152,10 @@ html {
         right: 10px;
         z-index: 10;
         content: '';
-        height: 35px;
-        width: 35px;
+        height: 80px;
+        width: 80px;
         background: url('https://telegra.ph/file/c8a3e28c3826141573984.jpg') no-repeat;
-        background-size: 35px auto, auto;
+        background-size: 80px auto, auto;
     }
     
         .plyr__video-wrapper::after {
