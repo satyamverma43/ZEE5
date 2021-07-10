@@ -53,7 +53,7 @@ $hls = "https://zee5vodnd.akamaized.net".$vidt.$vtoken;
 
 <html>
 <head>
-  <title><?php echo $title; ?> | Avishkar Pati </title>
+  <title><?php echo $title; ?> | Satyam | Whatstar </title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -154,7 +154,7 @@ html {
         content: '';
         height: 35px;
         width: 35px;
-        background: url('https://telegra.ph/file/22da4d29204c748a526a4.png') no-repeat;
+        background: url('https://telegra.ph/file/b76f9bbc8d86df426c5cc.jpg') no-repeat;
         background-size: 35px auto, auto;
     }
     
@@ -173,12 +173,12 @@ html {
 <body>
   <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words">A</span>
-    <span class="loading-text-words">V</span>
-    <span class="loading-text-words">I</span>
-    <span class="loading-text-words">S</span>
+    <span class="loading-text-words">W</span>
     <span class="loading-text-words">H</span>
-    <span class="loading-text-words">K</span>
+    <span class="loading-text-words">A</span>
+    <span class="loading-text-words">T</span>
+    <span class="loading-text-words">S</span>
+    <span class="loading-text-words">T</span>
     <span class="loading-text-words">A</span>
     <span class="loading-text-words">R</span>
 </div>
@@ -222,4 +222,4 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 </html>
 
-<!-- © Avishkar Patil -->
+<!-- © Satyam-->
