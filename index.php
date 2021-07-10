@@ -39,7 +39,7 @@ body{ background-color:#202020;}
 <button  class="button" type="submit" value="" title="Stream And Enjoy !!">
 Stream
 </button>
-<br><br><br><br><br><br><br><h4 style="text-align: center; color: #036cff; font-family: 'Balsamiq Sans', cursive; font-size: 15px;">If any Link not playing then use <a style="color: #33ffd5;" href="https://drm.zee5play.ml"> DRM Player</a> </h4><br><br>
+<br><br><br><br><br><br><br><h4 style="text-align: center; color: #036cff; font-family: 'Balsamiq Sans', cursive; font-size: 15px;">If any Link not playing then use <a style="color: #33ffd5;" href="https://thesatyam.ml"> Contact Us </a> </h4><br><br>
 
 <footer class="footer">
             <div class="container">
